@@ -8,10 +8,8 @@
 	<h1 style="color: green; font-size: 40px;" align="center">234567890</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: orange; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DELIVERED APPLICATION</h1>
-	<h1 style="color: red; font-size: 40px;" align="center">My first deployment successfull</h1>
-	<h1 style="color: blue; font-size: 40px;" align="center">nexus artifact</h1>
-        <h1 style="color: green; font-size: 40px;" align="center">webhook concept practicing and modifying</h1>
-<h1 style="color: green; font-size: 40px;" align="center">nexus practice done</h1>
+	<h1 style="color: red; font-size: 40px;" align="center">Practicing jenkins class-1</h1>
+	
 	
 	
 	
